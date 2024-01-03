@@ -1,0 +1,9 @@
+{
+    "name": "guide",
+    "npmname": "infinity-learn-guide",
+    "umdname": "infinity-learn-guide",
+    "username": "Shiinama",
+    "type": "ts",
+    "lang": "zh",
+    "version": "2.3.4"
+}
